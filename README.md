@@ -69,6 +69,7 @@ Research conducted during MSc at NUIST.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Languages**
@@ -83,9 +84,9 @@ Research conducted during MSc at NUIST.
 
 <div align="center">
 
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devericklasco&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devericklasco&theme=github-dark&hide_border=true)](https://github.com/devericklasco)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devericklasco&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devericklasco&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800)](https://github.com/devericklasco)
 
 </div>
 
@@ -110,6 +111,6 @@ Research conducted during MSc at NUIST.
 
 <div align="center">
 
-📬 **busuulwaerick@gmail.com** · [Portfolio](https://devericklasco.github.io/ericklasco-portfolio/) · [ORCID](https://orcid.org/0009-0007-7041-2931)
+📬 **busuulwaerick0@gmail.com** · [Portfolio](https://devericklasco.github.io/ericklasco-portfolio/) · [ORCID](https://orcid.org/0009-0007-7041-2931)
 
 </div>
