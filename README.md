@@ -43,7 +43,7 @@ Reinforcement Learning · AI for Social Good
 | [**OpenClaw**](https://github.com/devericklasco/openclaw) | Cross-platform personal AI assistant — any OS, any platform | TypeScript |
 | [**CBIR with VGG19**](https://github.com/devericklasco/Content-Based-Image-Retrieval-using-Autoencoder-with-VGG19) | Content-based image retrieval using autoencoder + VGG19 architecture | Python · PyTorch · Jupyter |
 | [**LLM Movie Recommender**](https://github.com/devericklasco/llm-movie-recommender-system) | Personalized recommendation system using LLMs and metadata | Python |
-| [**Sign Language Recognition**](https://github.com/devericklasco/Sign-Language-Recognition_TheMS) | MS thesis — sign language recognition on the MS-ASL dataset | Python · CV |
+| [**Sign Language Recognition**](https://github.com/devericklasco/webots-neuro-symbolic-signlanguage) | MS thesis — neuro-symbolic sign language recognition and translation using robotics and deep learning | Python · OpenCV · Transformers · NLP · Robotics |
 | [**ResumeOps**](https://github.com/devericklasco/resumeops) *(private)* | Intelligent resume tailoring engine — AI-powered, production-grade commercial product | Python · Agentic AI |
 
 ---
@@ -63,6 +63,8 @@ Research conducted during MSc at NUIST.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ROS](https://img.shields.io/badge/Robotics-22314E?style=flat-square&logo=ros&logoColor=white)
 
 **Infrastructure & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
