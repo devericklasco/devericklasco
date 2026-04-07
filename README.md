@@ -18,7 +18,7 @@ I'm an AI Engineer and Researcher with an **MSc in Artificial Intelligence** fro
 
 With **5+ years in STEM and software development**, my core focus areas are **Python**, **AI**, **Machine Learning**, and **MLOps** — built through hands-on engineering roles and graduate research. I apply **Agile methodologies** across both research and product development, which keeps my work grounded and deliverable.
 
-Prior to my graduate studies, I worked as a **DevOps Engineer at MTN Uganda** and a **Wireless RAN Network Engineer at ZTE Corporation**, giving me an unusual combination of deep infrastructure experience alongside AI/ML research. I also hold a **Huawei ICT Competition Global Finals First Prize** — an achievement that earned me a Chinese Government Scholarship.
+Prior to my graduate studies, I worked as a **DevOps Engineer at MTN Uganda** and a **Wireless RAN Network Engineer at ZTE Corporation**, giving me an unusual combination of deep infrastructure experience alongside AI/ML research. During my MSc, I served as a **Machine Learning Researcher at NUIST**, contributing to published work in computer vision and intelligent systems. I also hold a **Huawei ICT Competition Global Finals First Prize** — an achievement that earned me a Chinese Government Scholarship.
 
 Working as an **AI Engineer** with Invisible Technologies while building AI products and pursuing research.
 
@@ -95,6 +95,7 @@ Research conducted during MSc at NUIST.
 ## Experience Snapshot
 
 - 🤖 **AI Data Engineer** — Invisible Technologies *(current)*
+- 🔬 **Machine Learning Researcher** — Nanjing University of Information Science & Technology (NUIST)
 - 🌐 **DevOps Engineer** — MTN Uganda
 - 📡 **Wireless RAN Network Engineer** — ZTE Corporation
 - 🎓 **AI Instructor** — Huawei ICT Academy Uganda
