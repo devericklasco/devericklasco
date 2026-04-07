@@ -86,7 +86,7 @@ Research conducted during MSc at NUIST.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devericklasco&theme=github-dark&hide_border=true)](https://github.com/devericklasco)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devericklasco&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800)](https://github.com/devericklasco)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devericklasco&theme=github_dark)](https://github.com/devericklasco)
 
 </div>
 
