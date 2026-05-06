@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an AI Engineer and Researcher with an **MSc in Artificial Intelligence** from Nanjing University of Information Science & Technology (NUIST). My work sits at the intersection of applied AI systems and research — I build tools that work in the real world and publish work that advances the field.
+I'm an AI Engineer and Researcher with an **Master in Artificial Intelligence** from Nanjing University of Information Science & Technology (NUIST). My work sits at the intersection of applied AI systems and research — I build tools that work in the real world and publish work that advances the field.
 
 With **5+ years in STEM and software development**, my core focus areas are **Python**, **AI**, **Machine Learning**, and **MLOps** — built through hands-on engineering roles and graduate research. I apply **Agile methodologies** across both research and product development, which keeps my work grounded and deliverable.
 
@@ -97,7 +97,7 @@ Research conducted during MSc at NUIST.
 ## Experience Snapshot
 
 - 🤖 **AI Data Engineer** — Invisible Technologies *(current)*
-- 🔬 **Machine Learning Researcher** — Nanjing University of Information Science & Technology (NUIST)
+- 🔬 **Machine Learning Researcher** — Nanjing University of Information Science and Technology
 - 🌐 **DevOps Engineer** — MTN Uganda
 - 📡 **Wireless RAN Network Engineer** — ZTE Corporation
 - 🎓 **AI Instructor** — Huawei ICT Academy Uganda
